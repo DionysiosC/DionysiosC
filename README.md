@@ -1,6 +1,6 @@
 - Hello world, I’m Dennis aka [@DionysiosC](https://github.com/DionysiosC)
 - 💾 I’m currently studying [Computer Science and Eng. at the University of Ioannina](https://www.cs.uoi.gr/)
-- ✉ [Dennis](dennischronop@outlook.com)
+- ✉ dennischronop@outlook.com
  
 <!---
 DionysiosC/DionysiosC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
