@@ -1,4 +1,4 @@
-- Hello world, I’m Dennis aka [@DionysiosC](https://github.com/DionysiosC)
+- Hello world, I’m Dennis
 -  👨‍💻 I’m currently studying [Computer Science and Eng. at the University of Ioannina](https://www.cs.uoi.gr/)
 - ✉ [Dennis](mailto:dennischronop@outlook.com)
  
