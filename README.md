@@ -1,5 +1,5 @@
 - Hello world, I’m Dennis
--  👨‍💻 I’m currently studying [Computer Science and Eng. at the University of Ioannina](https://www.cs.uoi.gr/?lang=en)
+-  👨‍💻 I’m currently studying [Computer Science and Engineering at the University of Ioannina](https://www.cs.uoi.gr/?lang=en)
 - ✉ [Dennis](mailto:dennischronop@outlook.com)
  
 <!---
