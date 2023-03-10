@@ -1,5 +1,5 @@
-- Hello world, I’m Dennis!
--  👨‍💻 I’m currently studying [Computer Science and Engineering at the University of Ioannina](https://www.cs.uoi.gr/?lang=en)
+-  ✨ Hello and welcome to my (private) github repo! 
+-  👨‍💻 I am currently studying [Computer Science and Engineering at the University of Ioannina](https://www.cs.uoi.gr/?lang=en)
 - ✉ [Contact me](mailto:dennischronop@outlook.com)
  
 <!---
