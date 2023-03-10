@@ -1,6 +1,6 @@
 - Hello world, I’m Dennis
 -  👨‍💻 I’m currently studying [Computer Science and Engineering at the University of Ioannina](https://www.cs.uoi.gr/?lang=en)
-- ✉ [My email](mailto:dennischronop@outlook.com)
+- ✉ [Contact me](mailto:dennischronop@outlook.com)
  
 <!---
 DionysiosC/DionysiosC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
