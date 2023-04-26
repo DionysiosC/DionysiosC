@@ -1,4 +1,4 @@
--  ✨ Hello and welcome to my (private) github repo! 
+-  ✨ Hello and welcome to my github repo! 
 -  👨‍💻 I am currently studying [Computer Science and Engineering](https://www.cs.uoi.gr/?lang=en) at [the University of Ioannina](https://www.uoi.gr/en/)
 - ✉ [Contact me](mailto:dennischronop@outlook.com)
  
