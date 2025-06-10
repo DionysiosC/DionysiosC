@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
   &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="40" />
   &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-plain-wordmark.svg" alt="Linux" height="40" />
+  &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" />
   &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40" />
